@@ -17,7 +17,7 @@ machine translator can use more improvement.
 
 
 ## Literature Survey 
-We have based our project from insights gained after research on several prior works. We have mentioned a few journals along with their detailed methodology [here](literature_survey.pptx)
+We have based our project from insights gained after research on several prior works. We have mentioned a few journals along with their detailed methodology [here](literature_survey.pdf)
 
 ## Project Report
 For the complete understanding of our project along with its scope and motivation please find our project report attached [here](project_report.pdf)
