@@ -41,13 +41,13 @@ To install matplotlib for graphical interpretation
 ```
 ## High Level Design
 
-![HLD](https://linktodocumentation)
+![HLD](images/HLD_NMT&S.png)
 
 
 
-
+## For detailed working of the project, please understand the final report [here](nlp%20final%20report.pdf)
 
 ## Code
 
-[link to code](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+[link to code](CODE/)
 
