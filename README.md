@@ -45,7 +45,7 @@ To install matplotlib for graphical interpretation
 
 
 
-
+## For detailed working of the project, please understand the final report [here](nls final report)
 
 ## Code
 
