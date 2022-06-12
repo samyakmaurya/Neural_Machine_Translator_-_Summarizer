@@ -30,23 +30,23 @@ We have built the NMT and Text summarizer on Jupyter notebooks,
 
 Here are the libraries we have used
 
-1)To install pyTorch
+1) To install pyTorch
 ```bash
   pip install torch
 ```
-2)To install newspaper3k library to get news articles online:
+2) To install newspaper3k library to get news articles online:
 ```bash
   pip install newspaper3k
 ```
-3)To install Text to Speech translator
+3) To install Text to Speech translator
 ```bash
   pip install gTTs
 ```
-4)To install spacy, a library for advanced Natural Language Processing
+4) To install spacy, a library for advanced Natural Language Processing
 ```bash
   pip install spacy
 ```
-5)To install matplotlib for graphical interpretation
+5) To install matplotlib for graphical interpretation
 ```bash
   pip install matplotlib
 ```
@@ -56,11 +56,9 @@ Here are the libraries we have used
 
 
 
-## For detailed working of the project, please understand the [final project report](project_report.pdf)
-
 ## Code
 
-[Please fing the Python3 code here](CODE/)
+Complete code of the project along with the datasets can be found [here](CODE/)
 
-## 
+
 
