@@ -41,7 +41,7 @@ To install matplotlib for graphical interpretation
 ```
 ## High Level Design
 
-![HLD](https://linktodocumentation)
+![HLD](images/HLD_NMT&S.png)
 
 
 
@@ -49,5 +49,5 @@ To install matplotlib for graphical interpretation
 
 ## Code
 
-[link to code](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+[link to code](code/)
 
