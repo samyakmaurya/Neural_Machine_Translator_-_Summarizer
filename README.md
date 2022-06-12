@@ -45,7 +45,7 @@ To install matplotlib for graphical interpretation
 
 
 
-## For detailed working of the project, please understand the final report [here](nlp%20final%20report.pdf)
+## For detailed working of the project, please understand the [final project report](project_report.pdf)
 
 ## Code
 
