@@ -16,30 +16,37 @@ summarizer were up to the mark and that of the
 machine translator can use more improvement.
 
 
-## Literature Survey can be found [here](literature_survey)
+## Literature Survey 
+We have based our project from insights gained after research on several prior works. We have mentioned a few journals along with their detailed methodology [here](literature_survey.pptx)
 
-## For detailed working of the project, please understand the [final project report](project_report.pdf)
+## Project Report
+For the complete understanding of our project along with its scope and motivation please find our project report attached [here](project_report.pdf)
 
 
 
-## Required Python Libraries
-To install pyTorch
+## Initial setup
+
+We have built the NMT and Text summarizer on Jupyter notebooks,
+
+Here are the libraries we have used
+
+1)To install pyTorch
 ```bash
   pip install torch
 ```
-To install newspaper3k library to get news articles online:
+2)To install newspaper3k library to get news articles online:
 ```bash
   pip install newspaper3k
 ```
-To install Text to Speech translator
+3)To install Text to Speech translator
 ```bash
   pip install gTTs
 ```
-To install spacy, a library for advanced Natural Language Processing
+4)To install spacy, a library for advanced Natural Language Processing
 ```bash
   pip install spacy
 ```
-To install matplotlib for graphical interpretation
+5)To install matplotlib for graphical interpretation
 ```bash
   pip install matplotlib
 ```
