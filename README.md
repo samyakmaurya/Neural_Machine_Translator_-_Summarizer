@@ -49,5 +49,5 @@ To install matplotlib for graphical interpretation
 
 ## Code
 
-[link to code](code/)
+[link to code](CODE/)
 
