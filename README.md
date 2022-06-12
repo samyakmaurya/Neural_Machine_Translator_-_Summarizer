@@ -16,6 +16,10 @@ summarizer were up to the mark and that of the
 machine translator can use more improvement.
 
 
+## Literature Survey can be found [here](literature_survey)
+
+## For detailed working of the project, please understand the [final project report](project_report.pdf)
+
 
 
 ## Required Python Libraries
@@ -49,5 +53,7 @@ To install matplotlib for graphical interpretation
 
 ## Code
 
-[link to code](CODE/)
+[Please fing the Python3 code here](CODE/)
+
+## 
 
